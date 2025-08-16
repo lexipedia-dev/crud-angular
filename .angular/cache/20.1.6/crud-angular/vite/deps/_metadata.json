@@ -1,0 +1,67 @@
+{
+  "hash": "d20b1179",
+  "configHash": "e3e0c431",
+  "lockfileHash": "209a76bd",
+  "browserHash": "f64296a9",
+  "optimized": {
+    "@angular/cdk/bidi": {
+      "src": "../../../../../../node_modules/@angular/cdk/fesm2022/bidi.mjs",
+      "file": "@angular_cdk_bidi.js",
+      "fileHash": "f11e432d",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "c6d9674d",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "07cad116",
+      "needsInterop": false
+    },
+    "@angular/material/toolbar": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/toolbar.mjs",
+      "file": "@angular_material_toolbar.js",
+      "fileHash": "b2d87bb6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "4690c895",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "8557d509",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "824e23c5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-E6H4E4FW": {
+      "file": "chunk-E6H4E4FW.js"
+    },
+    "chunk-NTMGAXV5": {
+      "file": "chunk-NTMGAXV5.js"
+    },
+    "chunk-ZVVJ4WHN": {
+      "file": "chunk-ZVVJ4WHN.js"
+    },
+    "chunk-NIJKV7TU": {
+      "file": "chunk-NIJKV7TU.js"
+    },
+    "chunk-63B32T72": {
+      "file": "chunk-63B32T72.js"
+    }
+  }
+}
